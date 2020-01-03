@@ -2,8 +2,6 @@
     border-style:dashed;
     border-width:2px;
     border-radius:3px;
-    /* color:red; */
-    /* background-color: rgb(177, 87, 87); */
     text-align: center;
 }
 
@@ -26,9 +24,8 @@
 }
 
 .closeModal {
-    /* position: abosolute; */
+   
     float:right;
-    /* color: #ffffff; if this is white, it has effect of hiding it (a litttle)*/
     right: -12px;
     text-align: center;
     top: -10px;
@@ -44,8 +41,3 @@
     background: #4aaaa5;
 }
 
-
-/* crbtemp: tried testing this !important overide of bootstrap, not working
-body {
-    background: red !important;
-} */

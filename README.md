@@ -8,9 +8,14 @@
 
 # Password Generator
 
-![app](images/Pass.png)
-![app](images/Passw.png)
-![app](images/Password.png)
+first page
+![app](.images/Pass.png)
+
+password requirement
+![app](.images/Passw.png)
+
+final password
+![app](.images/Password.png)
 
 ## Description
 
